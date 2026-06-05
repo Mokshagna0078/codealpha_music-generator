@@ -1,0 +1,3 @@
+AI Music Generator — http://localhost:7860
+* Running on local URL:  http://127.0.0.1:7860
+* To create a public link, set `share=True` in `launch()`.

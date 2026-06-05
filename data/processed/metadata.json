@@ -1,0 +1,14 @@
+{
+  "num_files": 1678,
+  "num_files_skipped": 874,
+  "total_sequences": 1678,
+  "vocab_size": 381,
+  "min_pitch": 21,
+  "max_pitch": 108,
+  "beat_resolution": 4,
+  "max_sequence_lengths": {
+    "min": 476,
+    "max": 21703,
+    "mean": 8877.580452920143
+  }
+}
